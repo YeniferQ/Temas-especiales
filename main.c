@@ -3,5 +3,7 @@
 
 int main(){
 
-return o;
+printf("Hola TE 2026\n");
+
+return 0;
 }
