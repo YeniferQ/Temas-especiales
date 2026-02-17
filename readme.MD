@@ -28,11 +28,11 @@
 Para escribir tipografia es muy parecido ala estrategia usada en Whatsapp.
 Esto esta en **negritas** y esta _palabra_ esta en cursivas.
 
-''' 
+```
 def sumar(a, b){
 
 }
-'''
+```
 
 # Bojji
 
